@@ -294,10 +294,3 @@ export default defineConfig({
 	+ Tests
 		- all
     + Helps with security in backend
-
----
-
-# Скриншоты
-
-```Пока что не имеется```
-
